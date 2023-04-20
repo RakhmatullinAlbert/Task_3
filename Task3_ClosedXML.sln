@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3_ClosedXML", "Task3_ClosedXML.csproj", "{08520383-1B91-4780-92B9-19B55C83E5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08520383-1B91-4780-92B9-19B55C83E5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08520383-1B91-4780-92B9-19B55C83E5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08520383-1B91-4780-92B9-19B55C83E5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08520383-1B91-4780-92B9-19B55C83E5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4CECCAD-CB4A-4840-AE05-0D2F58E09234}
+	EndGlobalSection
+EndGlobal
