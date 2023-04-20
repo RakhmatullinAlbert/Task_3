@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_OpenXML.csproj": {}
+    "E:\\Git\\Task_3_2\\Task_3\\Task3_OpenXML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_OpenXML.csproj": {
+    "E:\\Git\\Task_3_2\\Task_3\\Task3_OpenXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_OpenXML.csproj",
+        "projectUniqueName": "E:\\Git\\Task_3_2\\Task_3\\Task3_OpenXML.csproj",
         "projectName": "Task3_OpenXML",
-        "projectPath": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_OpenXML.csproj",
+        "projectPath": "E:\\Git\\Task_3_2\\Task_3\\Task3_OpenXML.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\obj\\",
+        "outputPath": "E:\\Git\\Task_3_2\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "DocumentFormat.OpenXml": {
               "target": "Package",
               "version": "[2.20.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

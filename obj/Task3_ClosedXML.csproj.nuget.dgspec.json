@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_ClosedXML.csproj": {}
+    "E:\\Git\\Task_3_2\\Task_3\\Task3_ClosedXML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_ClosedXML.csproj": {
+    "E:\\Git\\Task_3_2\\Task_3\\Task3_ClosedXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_ClosedXML.csproj",
+        "projectUniqueName": "E:\\Git\\Task_3_2\\Task_3\\Task3_ClosedXML.csproj",
         "projectName": "Task3_ClosedXML",
-        "projectPath": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\Task3_ClosedXML.csproj",
+        "projectPath": "E:\\Git\\Task_3_2\\Task_3\\Task3_ClosedXML.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\source\\repos\\Task3_ClosedXML\\obj\\",
+        "outputPath": "E:\\Git\\Task_3_2\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

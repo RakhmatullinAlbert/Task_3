@@ -8,7 +8,7 @@ using DocumentFormat.OpenXml.Presentation;
 using DocumentFormat.OpenXml.Spreadsheet;
 using System.Collections.Generic;
 
-namespace Task3_ClosedXML
+namespace Task3_OpenXML
 {
     class Programm
     {
@@ -119,7 +119,7 @@ namespace Task3_ClosedXML
                                 catch
                                 {
                                     Console.Clear();
-                                    Console.WriteLine($"Не найден товар либо не существует заявки с наименованием товара");
+                                    Console.WriteLine($"Не найден товар, либо не существует заявки с наименованием товара");
                                     Console.ReadKey();
                                 }
                                 break;
@@ -342,6 +342,11 @@ namespace Task3_ClosedXML
             }
         }
 
+
+
+
+
+
         private static void DrawMenu(string[] items, int row, int col, int index, string rez)
         {
             Console.SetCursorPosition(col, row);
@@ -359,7 +364,9 @@ namespace Task3_ClosedXML
             Console.WriteLine();
         }
 
-       
+
+
+
 
         private static string SearchText( string searchText, int indexList, int indexColumn)
         {
@@ -384,7 +391,6 @@ namespace Task3_ClosedXML
             }
             return result;
         }
-
 
         private static int GetCount(int indexList)
         {
@@ -423,6 +429,8 @@ namespace Task3_ClosedXML
                 catch{ }
                 return result;
         }
+
+
 
 
         private static string[] GetCellsValue( int indexList, int indexRow)
@@ -487,6 +495,7 @@ namespace Task3_ClosedXML
             }
             return result;
         }
+
 
         private static bool SetCellsValue( int indexList, int indexRow, int indexColumn, string cellValue)
         {
