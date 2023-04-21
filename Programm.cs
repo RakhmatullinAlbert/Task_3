@@ -25,8 +25,8 @@ namespace Task3_OpenXML
             while (!fileExsist)
             {
                 Console.WriteLine("Введите путь до Excel файла:");
-                //fileName = @"C:\Users\alber\Desktop\Prilozhenie_2.xlsx";
                 fileName = Console.ReadLine();
+                //fileName = @"C:\Users\alber\Desktop\Prilozhenie_2.xlsx";
                 int countErr = 0;
                 try
                 {
